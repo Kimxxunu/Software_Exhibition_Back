@@ -103,8 +103,7 @@
 ### 5.  동아리방 찾기 게임
 | 동아리방 찾기 인트로 | 동아리방 찾기 게임 화면 |
 | :---: | :---: |
-|
-![림딩동 게임 사진1](https://github.com/user-attachments/assets/81f17d1c-74d1-4486-a210-13dc2369cbb7) | ![림딩동 게임 사진2](https://github.com/user-attachments/assets/ab3993dc-1592-4fbd-b028-f46d9d19cdc5) |
+|![림딩동 게임 사진1](https://github.com/user-attachments/assets/81f17d1c-74d1-4486-a210-13dc2369cbb7) | ![림딩동 게임 사진2](https://github.com/user-attachments/assets/ab3993dc-1592-4fbd-b028-f46d9d19cdc5) |
 
 <br>
 
